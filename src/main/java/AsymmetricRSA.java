@@ -2,7 +2,7 @@ import javax.crypto.Cipher;
 import java.nio.charset.StandardCharsets;
 import java.security.*;
 
-public class Asymmetric {
+public class AsymmetricRSA {
     private static final String RSA = "RSA";
     // Generating public and private keys
     // using RSA algorithm.
